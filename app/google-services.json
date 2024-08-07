@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "155210129696",
+    "project_id": "begroup-569ce",
+    "storage_bucket": "begroup-569ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155210129696:android:d612504336e21a77da3745",
+        "android_client_info": {
+          "package_name": "it.polito.mad.g18.mad_lab5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155210129696-mf7lrvgcme8met1rggr91qpa7ljou8jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.mad.g18.mad_lab5",
+            "certificate_hash": "b57c84906b636acc06434f5905ca62812aaa1f57"
+          }
+        },
+        {
+          "client_id": "155210129696-4mv2p60ig165s9f9e5r811bii0viklpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkQid5M-760tGNIzEZX8V--y8gradtv40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155210129696-4mv2p60ig165s9f9e5r811bii0viklpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
